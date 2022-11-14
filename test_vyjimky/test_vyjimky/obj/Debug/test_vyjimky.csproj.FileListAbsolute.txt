@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\bin\Debug\test_vyjimky.exe.config
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\bin\Debug\test_vyjimky.exe
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\bin\Debug\test_vyjimky.pdb
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.Form1.resources
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.Properties.Resources.resources
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.exe
+C:\Users\filip\source\repos\test_vyjimky\test_vyjimky\obj\Debug\test_vyjimky.pdb
